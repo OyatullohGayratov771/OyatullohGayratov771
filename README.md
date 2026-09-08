@@ -1,16 +1,37 @@
-## Hi there 👋
+# Assalamu alaykum 👋
 
-<!--
-**OyatullohGayratov771/OyatullohGayratov771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dasturchi | Web Developer**
 
-Here are some ideas to get you started:
+Texnologiyalar va yangi narsalarni o'rganishga qiziqaman. Kod yozish orqali dunyoni o'zgartirishni istayapman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Texnologiyalar
+
+```python
+languages = ["Python", "JavaScript", "HTML/CSS"]
+frameworks = ["React", "Node.js"]
+tools = ["Git", "VS Code", "Linux"]
+```
+
+## 📚 Hozir o'rganayotganlar
+
+- 🔄 Web Development
+- 🤖 Machine Learning
+- 📱 Mobile App Development
+
+## 🔗 Bog'lanish
+
+- **Email**: your.email@gmail.com
+- **LinkedIn**: [profil havolasi]
+- **Portfolio**: [vebsayt havolasi]
+
+---
+
+<div align="center">
+  
+**⚡ GitHub Statistics**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OyatullohGayrator771&layout=compact&theme=dark)
+
+</div>
